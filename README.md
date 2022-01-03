@@ -1,6 +1,5 @@
 # Ideology_Research
-Independent research conducted in order to measure U.S. Senate representatives' ideology relative to the partisanship of their constituents.
-
+Independent research conducted in order to measure U.S. Senate (2018-2020) representatives' ideology relative to the partisanship of their constituents.
 
 For example, Senator Joe Manchin of West Virginia is often criticized by more left-wing Democrats for being too conservative for the party, despite the fact that Senator Manchin behaves much more liberally than his constituents.
 
